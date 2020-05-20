@@ -1,2 +1,2 @@
 # Roll_a_dice
-Dice a roll in python
+Roll a dice in python
